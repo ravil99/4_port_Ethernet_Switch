@@ -24,6 +24,7 @@ How to use?
 - "Switch clock.png" - all clocks from this project. Both external and PLL-generated.
 - "RTL_model.png" - RTL representation of Ethernet switch. This can help you to understand the work that was done.
 - "Necessary files.png" - had been described above.
+- "Architecure.pdf" - grafical representation of how 4-port Ethernet switch works.
 
 Hope this project will be useful for you!
 Have a good day!
