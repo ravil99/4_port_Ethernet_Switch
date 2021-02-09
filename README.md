@@ -26,5 +26,7 @@ How to use?
 - "Necessary files.png" - had been described above.
 - "Architecure.pdf" - grafical representation of how 4-port Ethernet switch works.
 
+Unfortunately, the majority of the comments in the code are in Russian. I will translate them into English later
+
 Hope this project will be useful for you!
 Have a good day!
